@@ -1,0 +1,15 @@
+# NAME: Xiaomi / Mi Home — DIRECT
+# PURPOSE: Xiaomi Smart Camera C300, Russia region
+
+# Xiaomi core / account
+DOMAIN-SUFFIX,mi.com
+DOMAIN-SUFFIX,xiaomi.com
+DOMAIN-SUFFIX,xiaomi.net
+
+# Mi Home / IoT
+DOMAIN-SUFFIX,miot-spec.org
+
+# Xiaomi cloud / resources
+DOMAIN-SUFFIX,miui.com
+DOMAIN-SUFFIX,micloud.com
+DOMAIN-SUFFIX,mi-img.com
